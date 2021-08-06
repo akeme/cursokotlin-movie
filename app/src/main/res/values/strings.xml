@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="popular">Popular</string>
+    <string name="most_popular_movies">Top Movies</string>
+    <string name="error_fetch_movies">Algo deu errado, poderia ver como está sua conexão?</string>
+    <string name="top_rated">Melhores Avaliados</string>
+    <string name="highest_rated_movies">Os melhores de todos os tempos</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="stay_updated">Stay updated with the latest movies</string>
+</resources>
